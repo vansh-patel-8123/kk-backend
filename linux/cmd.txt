@@ -1,0 +1,13 @@
+cd .. -> back tom directory
+mkdir -> create folder/ directory
+ls -> list of item in directory
+open -> open the directory or application
+hidden file -> any file which is start with .
+ls -a -> show all hidden file
+pwd -> current directory (print working directory)
+. -> current directory
+.. -> previous directory
+cat -> use for opening file -> if file name is doesn't exit create new one 
+touch -> create file
+cp -> copy the file 
+mv -> move the file or directory
